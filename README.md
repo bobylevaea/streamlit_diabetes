@@ -22,7 +22,7 @@ For directly run streamlit locally in the repo root folder as follows:
 
 ```shell
 $ python -m venv venv
-$ source venv/bin/activate
+$ venv\Scripts\activate
 $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
